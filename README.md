@@ -15,9 +15,9 @@
 &zwj;
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/fastai-num-linalg-v2/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/fastai-num-linalg-v2)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/fastai-num-linalg-v2)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/fastai-num-linalg-v2)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/fastai-num-linalg-v2)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/fastai-num-linalg-v2)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/fastai-num-linalg-v2)
 + [代码仓库](https://github.com/apachecn/fastai-num-linalg-v2-zh)
 
 ## 赞助我
